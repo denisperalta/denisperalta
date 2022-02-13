@@ -1,7 +1,7 @@
 # Sobre mim
-- 👋 Olá, Meu nome é Denis Peralta, conhecido na internet como @RushadorCuidadoso.
-- 🌱 Estou aprendendo a ser um programador fullstack, também tenho um pouco de conhecimento em desenvolvimento de jogos.
-- 🎓 Sou formado em Engenharia Informática na UniNorte - Paraguay.
+- 👋 Hello, my name is Denis Peralta, also known as @RushadorCuidadoso on the internet.
+- 🌱 I'm learning fullstack programming, but I also know something about game developing.
+- 🎓 I'm a graduate at Uninorte - Paraguay in computer engineering.
 
 [![RushCuidadoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=RushCuidadoso&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RushCuidadoso&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
