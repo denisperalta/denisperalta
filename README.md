@@ -1,16 +1,21 @@
 # About Me
+
 - 👋 Hello, my name is Denis Peralta, also known as @RushadorCuidadoso on the internet.
-- 🌱 I'm learning fullstack programming, but I also know something about game developing.
+- 🌱 I'm a QA Engineer, but I also know something about web developing.
 - 🎓 I'm a graduate at Uninorte - Paraguay in computer engineering.
-- :desktop_computer: Some of my habilities are: HTML, CSS (with SASS), JavaScript, React, Postgresql, MongoDB, NodeJS, Python.
+- 🌃 I'm currently working at Samsung SRBR in Brazil
+- :desktop_computer: Some of my QA abilities are: Python, Selenium, Cypress, Jmeter, Manual Testing, Gherkin, BDD, Postman.
+- :desktop_computer: Some of my web abilities are: HTML, CSS, JavaScript, React, Next, NodeJS.
+- :desktop_computer: Some other are: SQL, NoSQL, Docker, Agile Methodologies.
 
 My LinkedIn profile is: https://www.linkedin.com/in/denis-peralta/
 
-My Web Portfolio is: https://rushcuidadoso.github.io/
+My Web Portfolio is: https://denisperalta.github.io/
 
-My E-mail is: d3nisfp@gmail.com
+My E-mail is: d.fperalta0@gmail.com
 
-[![RushCuidadoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=RushCuidadoso&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![DenisPeralta's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisperalta&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RushCuidadoso&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 --->
